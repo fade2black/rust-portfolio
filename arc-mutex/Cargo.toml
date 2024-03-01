@@ -1,0 +1,20 @@
+[package]
+name = "arc_mutex"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "arc_example"
+path = "src/arc_example.rs"
+
+[[bin]]
+name = "mutex_example"
+path = "src/mutex_example.rs"
+
+[[bin]]
+name = "deadlock"
+path = "src/deadlock.rs"
+
+[dependencies]
