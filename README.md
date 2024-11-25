@@ -7,3 +7,4 @@
 5. Implementation of Linux `wc` command.
 6. `arc-mutex` (simple tutorial).
 7. Letter frequency counter (how to use `tokio` channels to create a pipeline).
+8. `stress` allows to impose CPU load on a computer.
